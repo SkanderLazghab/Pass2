@@ -1,0 +1,15 @@
+com/bridgelabz/bookstore/controllayer/UserControllerTest.class
+com/bridgelabz/bookstore/controllayer/AddressControllerTest.class
+com/bridgelabz/bookstore/BookStoreApplicationTests.class
+com/bridgelabz/bookstore/servicelayer/AddressServiceTest.class
+com/bridgelabz/bookstore/servicelayer/WishlistServiceTest.class
+com/bridgelabz/bookstore/servicelayer/OrderServiceImplTest.class
+com/bridgelabz/bookstore/servicelayer/BookServiceImplementationTests.class
+com/bridgelabz/bookstore/controllayer/BookStoreControllerTests.class
+com/bridgelabz/bookstore/servicelayer/CartServiceTest.class
+com/bridgelabz/bookstore/controllayer/CartControllerTest.class
+com/bridgelabz/bookstore/controllayer/OrderControllerTest.class
+com/bridgelabz/bookstore/servicelayer/AdminServiceImpleTest.class
+com/bridgelabz/bookstore/controllayer/AdminControllerTest.class
+com/bridgelabz/bookstore/servicelayer/UserServiceTest.class
+com/bridgelabz/bookstore/controllayer/WishlistControllerTest.class
